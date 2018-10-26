@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!!</h1>
-<h2> AWS & DevOps training </h2>
+<h1> Hello, Welcome to DXC Technology !!!</h1>
 <h2> Happy learning </h2>
